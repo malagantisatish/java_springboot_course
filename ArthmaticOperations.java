@@ -5,8 +5,8 @@ public class ArthmaticOperations {
         // arthematic operation between both values
         int sub = num1 - num2; // 2
         int sum = num1 + num2; // 12
-        int remainder = num1 % num2; // 2
-        int divide = num1 / num2;// 1
+        int remainder = num1 % num2; // 2 // use modules operator for remainder
+        int divide = num1 / num2;// 1 // we will get qufitent
         int multiply = num1 * num2;// 35
 
         System.out.println("sum :" + sum);
