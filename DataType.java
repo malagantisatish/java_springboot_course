@@ -18,7 +18,7 @@ public class DataType {
          * 4. long------------>8byte---->(-2^63) to (2^63-1)
          */
 
-        /**
+        /*
          * float
          * 1. double--------->8 bytes default value
          * 2. float---------->4 bytes
@@ -30,19 +30,19 @@ public class DataType {
          * point
          */
 
-        /**
+        /*
          * FLOAT
          * 
          * float marks = 6.5;
          * 
          * if we give data types as float it will raise an error due to default data
-         * type is doubl
+         * type is double
          * to avoid that we need give f after the value like below.
          * float marks = 6.5f;
          * 
          */
 
-        /**
+        /*
          * CHARACTER
          * it has 2 bytes and it can any type of character
          * for assigning char we will use single quote(' ') (double qoute(" ") for
@@ -63,7 +63,7 @@ public class DataType {
         byte byteType = 127;
         short shortType = 558;
         long longType = 5554l; // while assigning long data type we give "l (L)" at last to say that that
-                               // variable is lone
+                               // variable is long
 
     }
 }

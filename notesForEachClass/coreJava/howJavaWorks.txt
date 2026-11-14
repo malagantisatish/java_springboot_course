@@ -1,0 +1,58 @@
+how java works?  
+
+
+in our machine we have JVM() bcz of jvm java code will run 
+
+jvm role is exeucte the java code 
+
+jvm won't understand what we write (JAVA CODE)
+
+jvm only understand byte code 
+
+so we have to convert our java code to byte code so that jvm can understand and execute
+
+
+our code is going to convert by javac(compiler) to byte code 
+
+
+our code ----> javac(compiler)--->byte code---->execution done by jvm
+
+even we are having 100 files jvm starts execution from 1st file (we have to specify it by main method)
+
+
+execution will starts from first file which we define by main method
+
+public static void main with parameter (string a[])
+
+
+java is object oriented programming language 
+
+after write class name in a file we will write javac filename.extention (hello.java) this will create a new file with class extention
+
+after compiling the code it will create a new file with Class name
+
+after that we write Class for output in teriminal
+
+JAVA DEVELOPMENT KIT (JDK)
+JAVA RUN TIME ENVIRONMENT (JRE) is part of JDK
+JAVA VIRTUAL MACHINE (JVM)  is part of JRE
+
+
+// class 10 variables 
+
+-->
+
+the version of JDK we are using is 17 which consists of JRE AND JVM -->LTS(long term service)
+
+
+variables ---> variable is container which stores data with types like numberic,string,decimal,objects,arrays exeucte
+
+java is strongly typed language
+
+int will accpet numbers (-ve and +ve)
+
+we declar a variable by giving it type initially then variable name followed by asssingment operator then value 
+
+ex: int num = 3
+
+

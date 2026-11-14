@@ -34,7 +34,9 @@ public class TypeConversion {
         int maxA = 257;
         byte k = (byte) maxA;
 
-        System.out.println("k : " + k); // k : 1, 127%126
+        
+
+        System.out.println("k : " + k); // k : 1, 127%126 (modulus operation:- which finds the remainder of this )
 
         // TYPE PROMOTIONS
 

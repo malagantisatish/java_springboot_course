@@ -7,12 +7,16 @@ class Calculator {
 
     // if want to calculate only 2 values i have 2 options one is i need to create new method with different name
     //else i need to create a new method with the same name which accepts the 2 values
-    public int add(int n1, int n2) { // for add 3 values
+    public int add(int n1, int n2) { // for add 2 values
         return n1 + n2;
     }
 
     public double add(double n1, int n2) { // adding double and int values and returns double
         return n1 + n2;
+    }
+
+    public void message(integer n1) {
+
     }
 
     // this is called method overloading....

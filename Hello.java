@@ -10,7 +10,7 @@
 
  */
 
-class Hello {
+class Hello { // file name
     public static void main(String a[]) {
         System.out.println("hello world");
     }

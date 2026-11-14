@@ -1,0 +1,8 @@
+// open cmd and enter jshell we will get java shell so that we can execute java 
+
+ex: 1+2 
+
+System.out.print("hello world")
+
+note jshell is only for experiment not for projects
+
